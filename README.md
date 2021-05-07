@@ -1,7 +1,9 @@
 Hello there, 
 
 Website: https://demo.nopcommerce.com/.
+
 Programming language: Java.
+
 Technologies and Tools:
 
     Eclipse IDE.
