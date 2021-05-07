@@ -1,9 +1,7 @@
 Hello there, 
 
 Website: https://demo.nopcommerce.com/.
-
 Programming language: Java.
-
 Technologies and Tools:
 
     Eclipse IDE.
@@ -11,7 +9,7 @@ Technologies and Tools:
     Page Object (Design Pattern).
     TestNG (Test Runner).
     Maven
-    DDT (Excel , CSV , JSON , Faker library).
+    DDT (Excel , Faker library).
     Cucumber. 
     Gherkin.
     Allure reports.
